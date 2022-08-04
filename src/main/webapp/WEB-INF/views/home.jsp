@@ -74,6 +74,7 @@
 </div>
 
 <div> 이건 이클립스에서 만든 div입니다 !</div>
+<div> 이건 두번째 이클립스에서 만든 div입니다.</div>
 
 <script>
 
